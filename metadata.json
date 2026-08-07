@@ -1,0 +1,6 @@
+{
+  "name": "All India Tour & Travel",
+  "description": "Comprehensive Indian tourism platform featuring domestic tour packages, heritage stories, booking hub, photo gallery, and AI travel planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
